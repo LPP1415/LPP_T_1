@@ -1,0 +1,8 @@
+# Ficheros acabados en ~
+*~
+
+# Ficheros acabados en .o
+*.o
+
+# Ficheros acabados en .class
+*.class
