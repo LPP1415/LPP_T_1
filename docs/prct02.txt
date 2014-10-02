@@ -2,4 +2,9 @@ Trabajo en equipo con git
 Respuesta a la pregunta ¿Cual es la diferencia entre compilacion e interpretación?:
 - La compilación traduce el codigo fuente a un lenguaje objeto creando así un ejecutable. en cambio la interpretación toma linea a linea del codigo la analiza y la ejecuta todo al mismo tiempo haciendo que sea un proceso mas lento cada vez que se quiera ejecutar.
 
+¿Cuál es la principal diferencia entre el contedino del fichero hellowworld.sh y helloworld.rb?
+- El fichero .sh esta escrito en bash y el .rb esta escrito en ruby
+
+¿Qué significado tiene la primera linea del fichero helloworld.sh?
+- Imprime por consola el mensaje Hello world
  
